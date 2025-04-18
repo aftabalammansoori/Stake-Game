@@ -1,4 +1,3 @@
-# Stake Game
 # 🎮 Stake Game
 
 A suspenseful web-based stake game built with **HTML**, **CSS**, and **JavaScript**. The goal is simple: pick 15 safe boxes out of 16 — but one of them hides a red bomb 💣. Choose wisely, or it's **Game Over!**
@@ -7,7 +6,7 @@ A suspenseful web-based stake game built with **HTML**, **CSS**, and **JavaScrip
 
 ## 🚀 Live Demo
 
-👉 [Click here to play the game](#)  
+👉 [Click here to play the game](https://aftabalammansoori.github.io/Stake-Game/)  
 *(Add your GitHub Pages or deployed link here)*
 
 ---
@@ -32,7 +31,7 @@ You are presented with a **4x4 grid (16 boxes)**.
 ## 📸 Screenshot
 
 ![Stake Game Screenshot](https://github.com/aftabalammansoori/Stake-Game/blob/main/images/Screenshot%202025-04-18%20064948.png)  
-*(Make sure to update the path based on your repo)*
+
 
 ---
 
@@ -46,5 +45,8 @@ You are presented with a **4x4 grid (16 boxes)**.
 
 ---
 
-## 📂 Folder Structure
+## 🪙 License
+
+This project is licensed under the [MIT License].
+
 
