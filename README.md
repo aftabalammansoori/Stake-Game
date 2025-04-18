@@ -7,7 +7,7 @@ A suspenseful web-based stake game built with **HTML**, **CSS**, and **JavaScrip
 ## 🚀 Live Demo
 
 👉 [Click here to play the game](https://aftabalammansoori.github.io/Stake-Game/)  
-*(Add your GitHub Pages or deployed link here)*
+
 
 ---
 
