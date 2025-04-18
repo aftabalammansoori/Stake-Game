@@ -45,8 +45,11 @@ You are presented with a **4x4 grid (16 boxes)**.
 
 ---
 
-## 🪙 License
+## Contribution
+Feel free to fork and contribute. Add animations, improve styling, or integrate greeting card download functionality.
 
-This project is licensed under the [MIT License].
+---
 
+## 📃 License
+This project is open-source and free to use under the MIT License.
 
