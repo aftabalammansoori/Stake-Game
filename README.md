@@ -31,7 +31,7 @@ You are presented with a **4x4 grid (16 boxes)**.
 
 ## 📸 Screenshot
 
-![Stake Game Screenshot]()  
+![Stake Game Screenshot](https://github.com/aftabalammansoori/Stake-Game/blob/main/images/Screenshot%202025-04-18%20064948.png)  
 *(Make sure to update the path based on your repo)*
 
 ---
